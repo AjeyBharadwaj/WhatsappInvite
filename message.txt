@@ -1,0 +1,2 @@
+This is a sample message.
+You can add characters from other languages as well.
